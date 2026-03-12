@@ -40,3 +40,20 @@ Welcome to your first Python challenge! This repository contains 6 tasks designe
 ### ✅ Task 6: The Repeat Machine (Loops)
 **Goal:** Do things many times.
 - **Task:** Use a `while` loop to print the numbers 1 to 10.
+
+---
+
+## 🚀 The Mini-Projects (Boss Levels)
+Once you have finished the 6 tasks, it is time to build something real! These projects combine everything you have learned.
+
+### 🎭 Project A: Mad-Libs Game
+**File:** `project_a_madlibs.py`
+- **Concept:** Storytelling with code.
+- **The Mission:** Ask the user for 5 words (like a name, a place, and a silly verb). Then, use those words to fill in the blanks of a pre-written story.
+- **Goal:** Make the story as ridiculous as possible!
+
+### 🔢 Project B: The Guessing Game
+**File:** `project_b_guessing.py`
+- **Concept:** Logic and user interaction.
+- **The Mission:** Create a secret number. Ask the user to guess it. Tell them if they got it right, or if they were wrong.
+- **Expert Challenge:** Can you use a `while` loop so the user can keep guessing until they get it right?
