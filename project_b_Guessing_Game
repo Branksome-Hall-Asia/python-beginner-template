@@ -1,0 +1,13 @@
+# PROJECT B: THE GUESSING GAME
+# Here, the computer has a secret and the user has to find it.
+
+# 1. Create a variable called 'secret_number' and set it to any number you like.
+# 2. Ask the user to guess the number.
+# 3. Use an IF/ELSE statement:
+#    - If they guess correctly, print "You are a mind reader!"
+#    - If they are wrong, print "Nope! Try again next time."
+
+# HINT: input() always creates a STRING (text). 
+# To compare it to a number, you might need to use int(input("..."))
+
+# WRITE YOUR CODE BELOW:
